@@ -2,7 +2,7 @@
 ![UWCL](https://github.com/user-attachments/assets/708dc733-01dc-4b8e-87ae-dead1f801354)
 
 ## Match Details
-Location: Estadio Jose Alvalade <br> Kick off time: 17:00  <br> Result: Arsenal Women 1 - 0 Barcelona Femeni <br> Scorers: Stina Blackstenius
+Location: Estadio Jose Alvalade <br> Date: 24th May 2025 <br> Kick off time: 17:00  <br> Result: Arsenal Women 1 - 0 Barcelona Femeni <br> Scorers: Stina Blackstenius
 <br>
 [Match Report](https://www.arsenal.com/news/reporter-diary-covering-uwcl-final-win)
 
