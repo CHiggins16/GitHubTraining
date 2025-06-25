@@ -40,3 +40,8 @@ Location: Estadio Jose Alvalade <br> Date: 24th May 2025 <br> Kick off time: 17:
 |Claudia Pina          |9         |Left Wing         |
 |Ewa Pajor             |17        |Striker           |
 
+```sql
+Select*
+Everyone
+```
+
