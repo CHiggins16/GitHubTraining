@@ -10,7 +10,7 @@ Location: Estadio Jose Alvalade <br> Date: 24th May 2025 <br> Kick off time: 17:
 
 #### Arsenal
 |Player Name|Kit Number|
-|--------------------|--|
+|---------------------------------------------------|------------------------------------------|
 |Daphne Van Domselaar|14|
 |Emily Fox|2|
 |Leah Williamson|6|
@@ -25,7 +25,7 @@ Location: Estadio Jose Alvalade <br> Date: 24th May 2025 <br> Kick off time: 17:
 
 #### Barcelona
 |Player Name|Kit Number|
-|------------------------|--|
+|-------------------------------------------------|-----------------------------------------------------|
 |Cata Coll|13|
 |Ona Batlle|22|
 |Irene Paredes|2|
