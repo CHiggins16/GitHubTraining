@@ -10,32 +10,33 @@ Location: Estadio Jose Alvalade <br> Date: 24th May 2025 <br> Kick off time: 17:
 
 #### Arsenal
 
-|Player Name         |Kit Number|
-|--------------------|----------|
-|Daphne Van Domselaar|14        |
-|Emily Fox           |2         |
-|Leah Williamson     |6         |
-|Steph Catley        |7         |
-|Katie McCabe        |11        |
-|Kim Little (C)      |10        |
-|Mariona Caldentey   |8         |
-|Chloe Kelly         |18        |
-|Frida Maanum        |12        |
-|Caitlin Foord       |19        |
-|Alessia Russo       |23        |
+|Player Name         |Kit Number|Position          |
+|--------------------|----------|------------------|
+|Daphne Van Domselaar|14        |Goalkeeper        |
+|Emily Fox           |2         |Right Back        |
+|Leah Williamson     |6         |Centre Back       |
+|Steph Catley        |7         |Centre Back       | 
+|Katie McCabe        |11        |Left Back         |
+|Kim Little (C)      |10        |Defensive Midfield|
+|Mariona Caldentey   |8         |Defensive Midfield|
+|Chloe Kelly         |18        |Right Wing        |
+|Frida Maanum        |12        |Attacking Midfield|
+|Caitlin Foord       |19        |Left Wing         |
+|Alessia Russo       |23        |Striker           |
 
 #### Barcelona
 
-|Player Name           |Kit Number|
-|----------------------|----------|
-|Cata Coll             |13        |
-|Ona Batlle            |22        |
-|Irene Paredes         |2         |
-|Mapi Leon             |4         |
-|Fridalina Rolfo       |16        |
-|Aitana Bonmati        |14        |
-|Patri Guijarro        |12        |
-|Alexia Putellas (C)   |11        |
-|Caroline Graham Hansen|10        |
-|Ewa Pajor             |17        |
-|Claudia Pina|9|
+|Player Name           |Kit Number|Position          |
+|----------------------|----------|------------------|
+|Cata Coll             |13        |Goalkeeper        |
+|Ona Batlle            |22        |Right Back        |
+|Irene Paredes         |2         |Centre Back       |
+|Mapi Leon             |4         |Centre Back       |
+|Fridalina Rolfo       |16        |Left Back         |
+|Patri Guijarro        |12        |Defensive Midfield|
+|Aitana Bonmati        |14        |Central Midfield  |
+|Alexia Putellas (C)   |11        |Central Midfield  |
+|Caroline Graham Hansen|10        |Right Wing        |
+|Claudia Pina          |9         |Left Wing         |
+|Ewa Pajor             |17        |Striker           |
+
