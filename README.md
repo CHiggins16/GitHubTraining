@@ -1,11 +1,13 @@
 # UWCL Final 2025
-![Stina Blackstenius scores the winning goal](https://github.com/CHiggins16/GitHubTraining/assets/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aljazeera.com%2Fsports%2Fliveblog%2F2025%2F5%2F24%2Flive-barcelona-vs-arsenal-uefa-womens-champions-league&psig=AOvVaw0OIvWXS1Fw_ThNzUq8A9MI&ust=1750931749275000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDdnpqnjI4DFQAAAAAdAAAAABAE)
+![UWCL](https://github.com/user-attachments/assets/708dc733-01dc-4b8e-87ae-dead1f801354)
+
 ## Match Details
 Location: Estadio Jose Alvalade <br> Kick off time: 17:00  <br> Result: Arsenal Women 1 - 0 Barcelona Femeni <br> Scorers: Stina Blackstenius
 <br>
 [Match Report](https://www.arsenal.com/news/reporter-diary-covering-uwcl-final-win)
 
 ### Starting Line Ups 
+
 #### Arsenal
 |Player Name|Kit Number|
 |------|----|
